@@ -22,5 +22,5 @@ The same logic was reimplemented in Python due to its open-source
 nature,better string passing,and industry relevance.
 
 ## How to Run
-'''bash
+bash
 python python/main.py
