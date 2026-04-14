@@ -21,6 +21,4 @@ MATLAB was used during academic coursework for numerical computation.
 The same logic was reimplemented in Python due to its open-source 
 nature,better string passing,and industry relevance.
 
-## How to Run
-bash
-python python/main.py
+
